@@ -1,0 +1,115 @@
+{
+    "dono": {
+        "dono": "@Rtzinmaker",
+        "id_dono": "1900135678",
+        "suporte": "@Rtzinmaker",
+        "adm": [
+            5449572029
+        ],
+        "grupo": "-1001565974968",
+        "user_grupo": "@RefRtzin",
+        "backup": "-1001590175290",
+        "logger": "-1001590175290",
+        "user_store": "@RtzinmakerBot",
+        "spam": [
+            "-1001518978994",
+            "-1001561988178",
+            "-1001745921048",
+            "-1001681638464",
+            "-1001791078578",
+            "-1001644424586",
+            "-1001718537387",
+            "-1001796781846",
+            "-1001587438205",
+            "-1001510247393"
+        ],
+        "db": "Rt90",
+        "token_bot": "5451732421:AAEwR_YkPWpf7VQS900cHig-c7elk1utT-Q",
+        "token_teste": "5451732421:AAEwR_YkPWpf7VQS900cHig-c7elk1utT-Q",
+        "token_pix": "APP_USR-1192887566714415-092319-5b8e2bc2285359daaa2158eb8848e9f2-1134620808",
+        "chave_pix": "8b5e60da-678c-4c24-aec7-4604ad1d2d1c",
+        "banco_da_lara": "Nubank",
+        "nome_da_lara": "Josenilda Almeida de Souza"
+    },
+    "dados": {
+        "foto": "https://www.magazine-hd.com/apps/wp/wp-content/uploads/2014/11/John-Wick.jpg",
+        "foto1": "https://rockcontent.com/br/wp-content/uploads/sites/2/2017/11/app-store-optimization-2.png",
+        "pix": "ON",
+        "manual": "ON",
+        "vendas_cc": "ON",
+        "adc_material": "OFF \u26a0\ufe0f",
+        "saldo em dobro": "ON",
+        "checagem": 10,
+        "porcent_refer": 10,
+        "sender": "OFF",
+        "vip": "OFF",
+        "text": "OFF",
+        "photo": "OFF",
+        "id": "OFF"
+    },
+    "checker": {
+        "atual": "off",
+        "troca": "off",
+        "reserva": "off",
+        "jhon debitando": {
+            "login": "",
+            "senha": "",
+            "token": "",
+            "expiracao": 1
+        },
+        "jhon debitando gate 2": {
+            "login": "",
+            "senha": "",
+            "token": "",
+            "expiracao": 1
+        },
+        "jhon debitando gate 3": {
+            "login": "",
+            "senha": "",
+            "token": "",
+            "expiracao": 1
+        },
+        "jhon pre auth": {
+            "login": "",
+            "senha": "",
+            "token": "",
+            "expiracao": 1
+        },
+        "erede": {
+            "login": "87780674",
+            "senha": "1e91ec32700745ec8926ac46f124377f",
+            "token": "",
+            "expiracao": 1
+        },
+        "pagar.me": {
+            "login": "",
+            "senha": "",
+            "token": "ak_live_WrpGQitI2bYlH0KXxgU960o1qnNN2K",
+            "expiracao": 1
+        },
+        "azkaban pre auth": {
+            "login": "auth",
+            "senha": "senha",
+            "token": "",
+            "expiracao": 1
+        },
+        "allcenter pre auth": {
+            "login": "wick",
+            "senha": "infowick",
+            "token": "",
+            "expiracao": 1
+        },
+        "comandante pre auth": {
+            "login": "",
+            "senha": "",
+            "token": "",
+            "expiracao": 1644779264
+        },
+        "thzin debitando": {
+            "login": "",
+            "senha": "",
+            "token": ".eyJ1c2VyIjoid2ljayIsIm5hbWUiOiJKaG9uIFdpY2siLCJpYXQiOjE2NDQ3NzkyNjUsImV4cCI6MTY0NDg2NTY2NX0.la2CY5a7vrN2TFcVmmTBaUP7aDirBOxiLPCBuTZDrZM",
+            "expiracao": 0
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "542820580744": {
+        "consul": "BANCO SANTANDER BRASIL",
+        "limite": 13222,
+        "anjo": "---",
+        "token": "---",
+        "preco": 250,
+        "cc": "5428 2058 0744 4862",
+        "bin": "542820",
+        "senha": "448899",
+        "validade": "02/2023",
+        "cvv": "804",
+        "nome": "RAQUEL DE LOURDES MARTINS",
+        "cpf": "167.611.268-51",
+        "telefone": "(19) 98276-2228"
+    },
+    "544315014044": {
+        "consul": "RENNER ADMINISTRADORA DE CARTOES DE CREDITO LTDA",
+        "limite": 2450,
+        "anjo": "X",
+        "token": "X",
+        "preco": 115,
+        "cc": "5443 1501 4044 7340",
+        "bin": "544315",
+        "senha": "031005",
+        "validade": "10/2025",
+        "cvv": "363",
+        "nome": "ANA PATI",
+        "cpf": "999.498.810-72",
+        "telefone": "(84) 99117-6600"
+    }
+}

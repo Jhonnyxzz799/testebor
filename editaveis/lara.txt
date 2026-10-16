@@ -1,0 +1,14 @@
+*💵 SALDO MANUAL*
+
+⥬  O Saldo *não tem reembolso* depois de comprado
+
+⥬  Chave <CHAVE>
+
+⥬  Nome  <LARA>
+
+⥬  Banco <BANCO>
+
+
+📲 Sempre verefique a lara aqui no bot antes de fazer o pix, ou use o pix automático
+
+_Valor mínimo de saldo R$20, se manda menos não será convertido em saldo_

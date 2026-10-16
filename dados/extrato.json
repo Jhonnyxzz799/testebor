@@ -1,0 +1,458 @@
+{
+    "21/02/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 1274,
+        "vendas_rs": 220,
+        "vendas": 10,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "22/02/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 558,
+        "vendas_rs": 276,
+        "vendas": 16,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "23/02/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 42,
+        "vendas_rs": 65,
+        "vendas": 6,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "24/02/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 152,
+        "vendas_rs": 368,
+        "vendas": 26,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "25/02/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 389,
+        "vendas_rs": 339,
+        "vendas": 29,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "26/02/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 72,
+        "vendas_rs": 228,
+        "vendas": 18,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "27/02/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 75,
+        "vendas_rs": 102,
+        "vendas": 7,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "28/02/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 40,
+        "vendas_rs": 0,
+        "vendas": 0,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "15/04/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 0,
+        "vendas_rs": 137,
+        "vendas": 9,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "16/04/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 60,
+        "vendas_rs": 134,
+        "vendas": 7,
+        "reembolsos_rs": 25,
+        "reembolsos": 1
+    },
+    "17/04/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 82,
+        "vendas_rs": 273,
+        "vendas": 16,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "18/04/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 140,
+        "vendas_rs": 0,
+        "vendas": 0,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "19/04/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 50,
+        "vendas_rs": 101,
+        "vendas": 9,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "20/04/2022": {
+        "entrada_pix_rs": 65,
+        "entrada_gift_rs": 185,
+        "vendas_rs": 199,
+        "vendas": 26,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "21/04/2022": {
+        "entrada_pix_rs": 25,
+        "entrada_gift_rs": 140,
+        "vendas_rs": 180,
+        "vendas": 32,
+        "reembolsos_rs": 5,
+        "reembolsos": 1
+    },
+    "22/04/2022": {
+        "entrada_pix_rs": 30,
+        "entrada_gift_rs": 0,
+        "vendas_rs": 70,
+        "vendas": 10,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "23/04/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 40,
+        "vendas_rs": 124,
+        "vendas": 18,
+        "reembolsos_rs": 5,
+        "reembolsos": 1
+    },
+    "24/04/2022": {
+        "entrada_pix_rs": 40,
+        "entrada_gift_rs": 0,
+        "vendas_rs": 119,
+        "vendas": 13,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "25/04/2022": {
+        "entrada_pix_rs": 20,
+        "entrada_gift_rs": 0,
+        "vendas_rs": 77,
+        "vendas": 10,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "26/04/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 0,
+        "vendas_rs": 5,
+        "vendas": 1,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "27/04/2022": {
+        "entrada_pix_rs": 40,
+        "entrada_gift_rs": 25,
+        "vendas_rs": 80,
+        "vendas": 16,
+        "reembolsos_rs": 5,
+        "reembolsos": 1
+    },
+    "28/04/2022": {
+        "entrada_pix_rs": 20,
+        "entrada_gift_rs": 0,
+        "vendas_rs": 30,
+        "vendas": 6,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "03/05/2022": {
+        "entrada_pix_rs": 30,
+        "entrada_gift_rs": 12,
+        "vendas_rs": 39,
+        "vendas": 3,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "04/05/2022": {
+        "entrada_pix_rs": 70,
+        "entrada_gift_rs": 251,
+        "vendas_rs": 185,
+        "vendas": 15,
+        "reembolsos_rs": 68,
+        "reembolsos": 5
+    },
+    "05/05/2022": {
+        "entrada_pix_rs": 104,
+        "entrada_gift_rs": 50,
+        "vendas_rs": 297,
+        "vendas": 20,
+        "reembolsos_rs": 39,
+        "reembolsos": 3
+    },
+    "06/05/2022": {
+        "entrada_pix_rs": 103,
+        "entrada_gift_rs": 45,
+        "vendas_rs": 180,
+        "vendas": 8,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "07/05/2022": {
+        "entrada_pix_rs": 384,
+        "entrada_gift_rs": 176,
+        "vendas_rs": 211,
+        "vendas": 13,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "08/05/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 0,
+        "vendas_rs": 24,
+        "vendas": 2,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "16/06/2022": {
+        "entrada_pix_rs": 114,
+        "entrada_gift_rs": 50,
+        "vendas_rs": 100,
+        "vendas": 12,
+        "reembolsos_rs": 5,
+        "reembolsos": 1
+    },
+    "17/06/2022": {
+        "entrada_pix_rs": 147,
+        "entrada_gift_rs": 40,
+        "vendas_rs": 230,
+        "vendas": 33,
+        "reembolsos_rs": 25,
+        "reembolsos": 2
+    },
+    "18/06/2022": {
+        "entrada_pix_rs": 30,
+        "entrada_gift_rs": 5,
+        "vendas_rs": 85,
+        "vendas": 17,
+        "reembolsos_rs": 15,
+        "reembolsos": 3
+    },
+    "19/06/2022": {
+        "entrada_pix_rs": 105,
+        "entrada_gift_rs": 50,
+        "vendas_rs": 152,
+        "vendas": 29,
+        "reembolsos_rs": 25,
+        "reembolsos": 5
+    },
+    "20/06/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 50,
+        "vendas_rs": 45,
+        "vendas": 9,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "21/06/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 0,
+        "vendas_rs": 70,
+        "vendas": 5,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "22/06/2022": {
+        "entrada_pix_rs": 335,
+        "entrada_gift_rs": 70,
+        "vendas_rs": 121,
+        "vendas": 10,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "23/06/2022": {
+        "entrada_pix_rs": 20,
+        "entrada_gift_rs": 40,
+        "vendas_rs": 61,
+        "vendas": 8,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "24/06/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 10,
+        "vendas_rs": 40,
+        "vendas": 3,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "25/06/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 10,
+        "vendas_rs": 0,
+        "vendas": 0,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "27/06/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 0,
+        "vendas_rs": 0,
+        "vendas": 0,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "28/06/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 0,
+        "vendas_rs": 5,
+        "vendas": 1,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "30/06/2022": {
+        "entrada_pix_rs": 20,
+        "entrada_gift_rs": 0,
+        "vendas_rs": 0,
+        "vendas": 0,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "02/07/2022": {
+        "entrada_pix_rs": 42,
+        "entrada_gift_rs": 0,
+        "vendas_rs": 217,
+        "vendas": 11,
+        "reembolsos_rs": 33,
+        "reembolsos": 2
+    },
+    "03/07/2022": {
+        "entrada_pix_rs": 30,
+        "entrada_gift_rs": 0,
+        "vendas_rs": 152,
+        "vendas": 9,
+        "reembolsos_rs": 17,
+        "reembolsos": 1
+    },
+    "04/07/2022": {
+        "entrada_pix_rs": 70,
+        "entrada_gift_rs": 50,
+        "vendas_rs": 213,
+        "vendas": 12,
+        "reembolsos_rs": 17,
+        "reembolsos": 1
+    },
+    "05/07/2022": {
+        "entrada_pix_rs": 20,
+        "entrada_gift_rs": 60,
+        "vendas_rs": 120,
+        "vendas": 12,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "06/07/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 50,
+        "vendas_rs": 0,
+        "vendas": 0,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "28/09/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 1700,
+        "vendas_rs": 55,
+        "vendas": 2,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "29/09/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 220,
+        "vendas_rs": 0,
+        "vendas": 0,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "30/09/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 3902,
+        "vendas_rs": 50,
+        "vendas": 2,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "01/10/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 437,
+        "vendas_rs": 402,
+        "vendas": 14,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "02/10/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 1967,
+        "vendas_rs": 25,
+        "vendas": 1,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "03/10/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 0,
+        "vendas_rs": 0,
+        "vendas": 0,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "05/10/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 0,
+        "vendas_rs": 0,
+        "vendas": 0,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "06/10/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 5172,
+        "vendas_rs": 198,
+        "vendas": 6,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "08/10/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 1057,
+        "vendas_rs": 65,
+        "vendas": 2,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "09/10/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 146,
+        "vendas_rs": 152,
+        "vendas": 5,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "10/10/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 22,
+        "vendas_rs": 40,
+        "vendas": 1,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    }
+}
